@@ -1,6 +1,11 @@
 # Unified model for interpreting multi-view echocardiographic sequences without temporal information
 
-![]()
+# Paper
+This repository provides the implementation of DPSN in the following paper: 
+
+[**Unified model for interpreting multi-view echocardiographic sequences without temporal information**](https://www.sciencedirect.com/science/article/abs/pii/S1568494619308312)
+
+Applied Soft Computing
 
 # Citation
 If you use DPSN for your research, please cite our paper:
