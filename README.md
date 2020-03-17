@@ -1,5 +1,7 @@
 # Unified model for interpreting multi-view echocardiographic sequences without temporal information
 
+![](https://img.shields.io/badge/license-MIT-blue)
+
 # Paper
 This repository provides the implementation of DPSN in the following paper: 
 
@@ -22,3 +24,4 @@ If you use DPSN for your research, please cite our paper:
 }
 ```
 
+# License
