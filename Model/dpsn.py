@@ -408,6 +408,5 @@ def dpsn():
                 print('No Change: dice does not change from %f !\n' % dice_epoch)
                 if early_stop_epoch == EarlyStopEpoch:
                     print('Early Stop: dice does not increase in %d epochs and stop training!\n' % EarlyStopEpoch)
-                    break
-                    
+                    break   
     return cv_d, cv_j, cv_f
