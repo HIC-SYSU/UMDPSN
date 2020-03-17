@@ -2,6 +2,10 @@ import tensorflow as tf
 import numpy as np
 import os
 import timeit
+from __future__ import division
+from numpy import ogrid, repeat, newaxis
+from skimage import io
+import skimage.transform
 
 # Pad with 0 values, similar to how Tensorflow does it. Order=1 is bilinear upsampling
 def upsample_skimage(factor, input_img):
