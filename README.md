@@ -23,5 +23,3 @@ If you use DPSN for your research, please cite our paper:
   publisher={Elsevier}
 }
 ```
-
-# License
